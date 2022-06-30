@@ -1,0 +1,41 @@
+{
+  "858387177310257162": {
+    "guild": "858387177310257162",
+    "id": "905910446010302514",
+    "name": "》 Staff",
+    "color": 0,
+    "hoist": false,
+    "rawPosition": 36,
+    "permissions": 104319553,
+    "managed": false,
+    "mentionable": false,
+    "deleted": false,
+    "createdTimestamp": 1636056281331
+  },
+  "891268733723623434": {
+    "guild": "891268733723623434",
+    "id": "911686915965730888",
+    "name": "🛡 | Helper",
+    "color": 2863023,
+    "hoist": true,
+    "rawPosition": 10,
+    "permissions": 37072387,
+    "managed": false,
+    "mentionable": false,
+    "deleted": false,
+    "createdTimestamp": 1637433499090
+  },
+  "866614118776307724": {
+    "guild": "866614118776307724",
+    "id": "916364061644574790",
+    "name": "test syntax",
+    "color": 65280,
+    "hoist": true,
+    "rawPosition": 26,
+    "permissions": 1383591614,
+    "managed": false,
+    "mentionable": false,
+    "deleted": false,
+    "createdTimestamp": 1638548617517
+  }
+}
